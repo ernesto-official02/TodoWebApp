@@ -2,10 +2,10 @@ import React from "react"
 import './index.css';
 import './App.css';
 import { useState } from "react";
-import Header from "./components/header";
+import Header from "./components/Header";
 import AddNote from "./components/Addnote";
 import AllNotes from "./components/Allnotes";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 
 function App() {
